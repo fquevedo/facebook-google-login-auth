@@ -2,9 +2,9 @@
 
 #Proyecto Personas 
 
-Ejemplo basico de React JS utilizando ciclos de vida con Redux, consume una Api que nos entrega un JSON de info sobre personas y sus twits.
+Ejemplo de inicio de sesión por Facebook y Google utilizando ReactJS
 
-Tecnologias: React+Redux JavaScript Client
+Tecnologias: ReactJS
 
 ## Inicio
 Estas instrucciones te permitiran obtener una copia del proyecto corriendo en tu entorno local para propositos de desarrollo y testing.
@@ -17,8 +17,8 @@ Estas instrucciones te permitiran obtener una copia del proyecto corriendo en tu
 
 ### Instalación
 ```
-$ git clone https://github.com/fquevedo/proyecto-personas
-$ cd proyecto-personas
+$ git clone https://github.com/fquevedo/facebook-google-login-auth
+$ cd facebook-google-login-auth
 $ npm install
 ```
 
