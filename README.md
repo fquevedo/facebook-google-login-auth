@@ -26,7 +26,7 @@ $ npm install
 Para levantar el proyecto ejecutar el siguiente comando:
 ```
 $ npm start
-
+```
 ## Pruebas
 [http://localhost:3000](https://localhost:3000)
 
