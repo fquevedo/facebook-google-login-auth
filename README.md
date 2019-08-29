@@ -1,6 +1,6 @@
 ﻿This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Proyecto Personas 
+# Proyecto personas
 
 Ejemplo de inicio de sesión por Facebook y Google utilizando ReactJS
 
